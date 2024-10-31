@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm @bogosla
 
 ## 🚀 About Me
-👋 Hi, I'm [Your Name]! I'm a passionate programmer... And learning new technologies.
+👋 Hi, I'm James DESTINE! I'm a passionate programmer... And learning new technologies.
 
 💻 Currently, I'm expanding my skills in web development and software engineering. 
 I'm also excited to dive into **Data Science** soon, exploring the world of data, machine learning, and analytics to gain deeper insights and make data-driven decisions.
